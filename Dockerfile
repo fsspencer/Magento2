@@ -24,6 +24,7 @@ RUN apt-get update \
 	apt-utils \
   	mysql-client \
 	git \
+	nano \
 	vim \
 	wget \
 	curl \
